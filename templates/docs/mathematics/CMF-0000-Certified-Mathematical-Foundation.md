@@ -182,26 +182,33 @@ The Certified Mathematical Foundation governs the Mathematical Proof Programme (
 The programme develops mathematical results in the following progression:
 
 Primitive Axioms
-    |
-    v
+
+↓
+
 Definitions
-    |
-    v
+
+↓
+
 Lemmas
-    |
-    v
+
+↓
+
 Propositions
-    |
-    v
+
+↓
+
 Theorems
-    |
-    v
+
+↓
+
 Corollaries
-    |
-    v
+
+↓
+
 Proof Certificates
-    |
-    v
+
+↓
+
 Certification
 
 Each result shall explicitly identify its dependencies.
@@ -296,7 +303,7 @@ CMF
 Domain Foundations
     |
     v
-Constitutional Meta-System
+CMS
     |
     v
 Certified Mathematical Proofs
@@ -329,4 +336,3 @@ Certification
 The Certified Mathematical Foundation defines the constitutional mathematical basis of SMOF.
 
 Individual mathematical results are not established within this document. They are developed in the corresponding Axiom, Definition, Lemma, Proposition, Theorem, Corollary, and Proof Certificate documents that collectively constitute the Mathematical Proof Programme.
-   
