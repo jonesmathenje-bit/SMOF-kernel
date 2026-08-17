@@ -22,6 +22,7 @@
 
 - PA-0001 — Primitive Sufficiency Axiom
 - PL-0001 — Operator Closure Lemma
+- PT-0001 — Primitive Sufficiency Theorem
 - FC-0003 — MathematicalOperator
 
 ---
