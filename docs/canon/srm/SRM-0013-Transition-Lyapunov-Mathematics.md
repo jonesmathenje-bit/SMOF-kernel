@@ -1,4 +1,4 @@
-# SRM-0013 â€” Transition Lyapunov Mathematics
+# SRM-0013 — Transition Lyapunov Mathematics
 
 **Document ID:** SRM-0013
 **Title:** Transition Lyapunov Mathematics
@@ -2513,15 +2513,15 @@ A finite sample establishes empirical evidence rather than universal proof.
 
 SRM-0013 defines three conceptual certification levels.
 
-### Level I â€” Candidate
+### Level I — Candidate
 
 A function (V) has been proposed.
 
-### Level II â€” Verified
+### Level II — Verified
 
 The required inequalities have been mathematically or computationally verified over a stated domain.
 
-### Level III â€” Certified
+### Level III — Certified
 
 The verified inequalities have been incorporated into a formal SMOF stability certificate with explicit assumptions and scope.
 

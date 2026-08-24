@@ -1,4 +1,4 @@
-﻿# FC-0001 â€” Mathematical Entity Contract
+# FC-0001 — Mathematical Entity Contract
 
 | Field | Value |
 |-------|-------|

@@ -1,4 +1,4 @@
-﻿# SRM-0003 â€” State Transition Mathematics
+# SRM-0003 — State Transition Mathematics
 
 **Document Identifier:** SRM-0003
 
@@ -18,7 +18,7 @@
 
 **Governing Standard:** SCS-0001 Foundation Audit Framework
 
-**Predecessor:** SRM-0002 â€” Runtime Transition
+**Predecessor:** SRM-0002 — Runtime Transition
 
 ---
 
@@ -71,20 +71,20 @@ SRM-0003 derives authority from:
 
 * SMOF Constitution;
 * SMOF Canon;
-* PA-0001 â€” Primitive Sufficiency Axiom;
-* PL-0001 â€” Operator Closure Lemma;
-* PT-0001 â€” Primitive Sufficiency Theorem;
-* PT-0002 â€” Operator Composition Theorem;
-* PT-0003 â€” Runtime Correctness Theorem;
-* PT-0004 â€” Execution Graph Correctness Theorem;
-* PT-0005 â€” Foundation Completeness Theorem;
-* SRM-0001 â€” Runtime Mathematical Foundation;
-* SRM-0002 â€” Runtime Transition;
-* FC-0001 â€” MathematicalEntity;
-* FC-0002 â€” MathematicalObject;
-* FC-0003 â€” MathematicalOperator;
-* FC-0004 â€” MathematicalRuntime;
-* SCS-0001 â€” Foundation Audit Framework.
+* PA-0001 — Primitive Sufficiency Axiom;
+* PL-0001 — Operator Closure Lemma;
+* PT-0001 — Primitive Sufficiency Theorem;
+* PT-0002 — Operator Composition Theorem;
+* PT-0003 — Runtime Correctness Theorem;
+* PT-0004 — Execution Graph Correctness Theorem;
+* PT-0005 — Foundation Completeness Theorem;
+* SRM-0001 — Runtime Mathematical Foundation;
+* SRM-0002 — Runtime Transition;
+* FC-0001 — MathematicalEntity;
+* FC-0002 — MathematicalObject;
+* FC-0003 — MathematicalOperator;
+* FC-0004 — MathematicalRuntime;
+* SCS-0001 — Foundation Audit Framework.
 
 ---
 

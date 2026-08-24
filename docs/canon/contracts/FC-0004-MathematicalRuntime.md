@@ -1,4 +1,4 @@
-﻿# FC-0004 â€” Mathematical Runtime Contract
+# FC-0004 — Mathematical Runtime Contract
 
 | Field | Value |
 |-------|-------|

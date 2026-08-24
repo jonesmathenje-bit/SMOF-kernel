@@ -1,4 +1,4 @@
-# PM-0005 â€” Observability Mathematics
+# PM-0005 — Observability Mathematics
 
 **Document ID:** PM-0005
 **Document Type:** Platform Mathematical Canon
@@ -379,23 +379,23 @@ This establishes observability isolation independently of storage implementation
 
 ## 15. Observability Invariants
 
-### Invariant I1 â€” Tenant Identity
+### Invariant I1 — Tenant Identity
 
 Every retained observation has exactly one tenant identity.
 
-### Invariant I2 â€” Signal Classification
+### Invariant I2 — Signal Classification
 
 Every accepted observation has exactly one signal classification.
 
-### Invariant I3 â€” Timestamp Validity
+### Invariant I3 — Timestamp Validity
 
 Every retained observation has a valid timestamp.
 
-### Invariant I4 â€” Metric Validity
+### Invariant I4 — Metric Validity
 
 Every metric value belongs to the declared metric value domain.
 
-### Invariant I5 â€” Trace Ordering
+### Invariant I5 — Trace Ordering
 
 Every span satisfies:
 
@@ -403,7 +403,7 @@ Every span satisfies:
 t_0\leq t_1
 \]
 
-### Invariant I6 â€” Tenant Isolation
+### Invariant I6 — Tenant Isolation
 
 For distinct tenants:
 
@@ -411,29 +411,29 @@ For distinct tenants:
 O_{\tau_1}\cap O_{\tau_2}=\varnothing
 \]
 
-### Invariant I7 â€” Compliance Preservation
+### Invariant I7 — Compliance Preservation
 
 Observability processing cannot produce an output that violates PM-0003 constraints.
 
-### Invariant I8 â€” Deterministic Aggregation
+### Invariant I8 — Deterministic Aggregation
 
 For identical input sets and identical aggregation parameters, aggregation produces identical results.
 
-### Invariant I9 â€” State Validity
+### Invariant I9 — State Validity
 
 Every observability transition produces a state in \(\mathcal{S}_{obs}\).
 
-### Invariant I10 â€” Runtime Consistency
+### Invariant I10 — Runtime Consistency
 
 Every runtime-observable transition is consistent with SRM transition semantics.
 
 ## 16. Verification Conditions
 
-### VC-01 â€” Observation Identity
+### VC-01 — Observation Identity
 
 Verify that every retained observation has a tenant and signal identity.
 
-### VC-02 â€” Signal Classification
+### VC-02 — Signal Classification
 
 Verify:
 
@@ -443,15 +443,15 @@ Verify:
 
 for every accepted observation.
 
-### VC-03 â€” Metric Domain
+### VC-03 — Metric Domain
 
 Verify that metric values satisfy their declared numeric domain.
 
-### VC-04 â€” Event Classification
+### VC-04 — Event Classification
 
 Verify that every event has a valid event class.
 
-### VC-05 â€” Trace Ordering
+### VC-05 — Trace Ordering
 
 Verify:
 
@@ -461,15 +461,15 @@ t_0\leq t_1
 
 for every span.
 
-### VC-06 â€” Log Integrity
+### VC-06 — Log Integrity
 
 Verify that every retained log has timestamp, tenant, level, and message fields.
 
-### VC-07 â€” Aggregation Determinism
+### VC-07 — Aggregation Determinism
 
 Verify deterministic equality for equal aggregation inputs.
 
-### VC-08 â€” Sampling Constraint
+### VC-08 — Sampling Constraint
 
 Verify:
 
@@ -479,11 +479,11 @@ Verify:
 
 and that mandatory observations are not sampled out.
 
-### VC-09 â€” Cardinality Constraint
+### VC-09 — Cardinality Constraint
 
 Verify that observable dimension cardinality does not exceed the configured platform bound.
 
-### VC-10 â€” Tenant Isolation
+### VC-10 — Tenant Isolation
 
 Verify:
 
@@ -493,11 +493,11 @@ O_{\tau_1}\cap O_{\tau_2}=\varnothing
 
 for distinct tenants.
 
-### VC-11 â€” Compliance Preservation
+### VC-11 — Compliance Preservation
 
 Verify that observability outputs satisfy PM-0003 requirements.
 
-### VC-12 â€” Runtime Consistency
+### VC-12 — Runtime Consistency
 
 Verify that every observability transition is compatible with SRM transition semantics.
 

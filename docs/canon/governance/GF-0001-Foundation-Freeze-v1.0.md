@@ -1,4 +1,4 @@
-﻿# GF-0001 â€” Foundation Freeze v1.0
+# GF-0001 — Foundation Freeze v1.0
 
 | Field | Value |
 |-------|-------|

@@ -1,4 +1,4 @@
-﻿# SRM-0016 â€” Transition Convergence-Rate Mathematics
+# SRM-0016 — Transition Convergence-Rate Mathematics
 
 **Document ID:** SRM-0016
 **Title:** Transition Convergence-Rate Mathematics
@@ -3322,7 +3322,7 @@ or
 
 ## 95. Canonical Theorem Schema
 
-**Theorem Schema â€” Transition Linear Convergence**
+**Theorem Schema — Transition Linear Convergence**
 
 Let (\mathcal U\subseteq\mathcal X) be invariant under (T). Suppose (x^\ast\in\mathcal U) satisfies
 
@@ -3370,7 +3370,7 @@ Therefore the transition converges geometrically to (x^\ast).
 
 ## 96. Canonical Corollary Schema
 
-**Corollary Schema â€” Tolerance Bound**
+**Corollary Schema — Tolerance Bound**
 
 Under the preceding theorem, if
 
@@ -3404,7 +3404,7 @@ k
 
 ## 97. Canonical Superlinear Theorem Schema
 
-**Theorem Schema â€” Superlinear Transition Convergence**
+**Theorem Schema — Superlinear Transition Convergence**
 
 Suppose
 
@@ -3449,7 +3449,7 @@ then the convergence has order (p).
 
 ## 98. Canonical Perturbed Theorem Schema
 
-**Theorem Schema â€” Input-to-Rate Bound**
+**Theorem Schema — Input-to-Rate Bound**
 
 Suppose
 
@@ -3528,7 +3528,7 @@ These invariants describe complementary aspects of transition decay.
 
 ## 100. Formal Definition
 
-**Definition â€” Transition Convergence Rate**
+**Definition — Transition Convergence Rate**
 
 Let
 

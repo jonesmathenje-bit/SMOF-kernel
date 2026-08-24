@@ -1,4 +1,4 @@
-﻿# SRM-0014 â€” Transition Robustness Mathematics
+# SRM-0014 — Transition Robustness Mathematics
 
 **Document ID:** SRM-0014
 **Title:** Transition Robustness Mathematics
@@ -1922,13 +1922,13 @@ This vector is not itself an invariant unless its components are invariant under
 
 A transition may be classified as:
 
-### Class R0 â€” Non-robust
+### Class R0 — Non-robust
 
 [
 \rho_R=0.
 ]
 
-### Class R1 â€” Locally robust
+### Class R1 — Locally robust
 
 [
 \rho_R>0
@@ -1936,15 +1936,15 @@ A transition may be classified as:
 
 in a neighborhood.
 
-### Class R2 â€” Uniformly robust
+### Class R2 — Uniformly robust
 
 A common positive robustness radius exists throughout the specified domain.
 
-### Class R3 â€” Strongly robust
+### Class R3 — Strongly robust
 
 Uniform bounds persist over the specified infinite horizon.
 
-### Class R4 â€” Structurally robust
+### Class R4 — Structurally robust
 
 The qualitative transition structure persists under admissible perturbations.
 

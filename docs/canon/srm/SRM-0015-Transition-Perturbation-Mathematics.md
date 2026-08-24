@@ -1,4 +1,4 @@
-﻿# SRM-0015 â€” Transition Perturbation Mathematics
+# SRM-0015 — Transition Perturbation Mathematics
 
 **Document ID:** SRM-0015
 **Title:** Transition Perturbation Mathematics
@@ -139,7 +139,7 @@ A perturbation introduces a deviation from this nominal transition system.
 
 ## 4. Definition of Perturbation
 
-### Definition 4.1 â€” State Perturbation
+### Definition 4.1 — State Perturbation
 
 A state perturbation is a deviation
 
@@ -5177,7 +5177,7 @@ Each arrow represents a mathematically verifiable transformation.
 
 ---
 
-## 236. Canonical Theorem â€” Perturbation Propagation
+## 236. Canonical Theorem — Perturbation Propagation
 
 **Theorem 236.1**
 
@@ -5228,7 +5228,7 @@ Therefore the result holds by induction.
 
 ---
 
-## 237. Corollary â€” Uniform Contraction
+## 237. Corollary — Uniform Contraction
 
 If
 
@@ -5253,7 +5253,7 @@ then
 
 ---
 
-## 238. Corollary â€” Vanishing Perturbation
+## 238. Corollary — Vanishing Perturbation
 
 If
 
@@ -5275,7 +5275,7 @@ then
 
 ---
 
-## 239. Canonical Theorem â€” Perturbation Tube Containment
+## 239. Canonical Theorem — Perturbation Tube Containment
 
 Suppose
 
@@ -5307,7 +5307,7 @@ Hence the ball of radius (r) is forward invariant under the perturbation dynamic
 
 ---
 
-## 240. Canonical Theorem â€” Perturbation Margin
+## 240. Canonical Theorem — Perturbation Margin
 
 Let a certified property hold whenever
 
@@ -5325,7 +5325,7 @@ then the property remains valid for the entire certified horizon.
 
 ---
 
-## 241. Canonical Theorem â€” First-Order Perturbation
+## 241. Canonical Theorem — First-Order Perturbation
 
 Suppose (T) is differentiable at (x).
 
@@ -5360,7 +5360,7 @@ DT(x)\delta x+o(|\delta x|).
 
 ---
 
-## 242. Canonical Theorem â€” Exponential Perturbation Decay
+## 242. Canonical Theorem — Exponential Perturbation Decay
 
 If
 
@@ -5380,7 +5380,7 @@ Therefore the infinitesimal perturbation decays exponentially.
 
 ---
 
-## 243. Canonical Theorem â€” Bounded Forcing
+## 243. Canonical Theorem — Bounded Forcing
 
 Consider
 
@@ -5413,7 +5413,7 @@ Then
 
 ---
 
-## 244. Canonical Proposition â€” Perturbation Margin Preservation
+## 244. Canonical Proposition — Perturbation Margin Preservation
 
 Let a property have margin
 
@@ -5431,7 +5431,7 @@ then the property is preserved throughout the certified perturbation domain.
 
 ---
 
-## 245. Canonical Proposition â€” Composition Sensitivity
+## 245. Canonical Proposition — Composition Sensitivity
 
 For
 
@@ -5453,7 +5453,7 @@ Thus perturbation effects are propagated through the composition structure.
 
 ---
 
-## 246. Canonical Definition â€” Perturbation Robustness
+## 246. Canonical Definition — Perturbation Robustness
 
 A transition is perturbation-robust with respect to
 
@@ -5475,25 +5475,25 @@ for every admissible perturbation and every
 
 ---
 
-## 247. Canonical Definition â€” Perturbation Stability
+## 247. Canonical Definition — Perturbation Stability
 
 A transition is perturbation-stable if sufficiently small admissible perturbations remain bounded.
 
 ---
 
-## 248. Canonical Definition â€” Perturbation Asymptotic Stability
+## 248. Canonical Definition — Perturbation Asymptotic Stability
 
 A transition is perturbation asymptotically stable if admissible perturbations converge to zero as the horizon tends to infinity.
 
 ---
 
-## 249. Canonical Definition â€” Perturbation Gain
+## 249. Canonical Definition — Perturbation Gain
 
 The perturbation gain is the supremum of output perturbation magnitude relative to admissible input perturbation magnitude.
 
 ---
 
-## 250. Canonical Definition â€” Perturbation Margin
+## 250. Canonical Definition — Perturbation Margin
 
 The perturbation margin is the largest certified perturbation radius for which the selected transition property remains valid.
 

@@ -1,4 +1,4 @@
-﻿# FC-0002 â€” Mathematical Object Contract
+# FC-0002 — Mathematical Object Contract
 
 | Field | Value |
 |-------|-------|

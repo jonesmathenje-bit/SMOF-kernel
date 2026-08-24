@@ -1,4 +1,4 @@
-﻿# FC-0003 â€” Mathematical Operator Contract
+# FC-0003 — Mathematical Operator Contract
 
 | Field | Value |
 |-------|-------|
